@@ -1,0 +1,19 @@
+{
+  "name": "Union des Congolais Anciens de Grèce",
+  "short_name": "U.C.A.G",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#003f99",
+  "background_color": "#003f99",
+  "display": "standalone"
+}

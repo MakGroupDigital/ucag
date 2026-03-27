@@ -1,0 +1,39 @@
+{
+  "name": "Union des Congolais Anciens de Grèce",
+  "short_name": "U.C.A.G",
+  "description": "Le pont culturel et académique entre la République Démocratique du Congo et la Grèce",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#003f99",
+  "theme_color": "#003f99",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
